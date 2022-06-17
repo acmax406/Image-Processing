@@ -1,0 +1,7 @@
+CNN = covolution nural network
+layers in CNN
+1.covolution layer
+    stores the pixelated values of image into an array
+    used for extracting the features of the image and reducing its dimensionality
+2.ReLU
+    
